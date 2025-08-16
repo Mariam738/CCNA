@@ -6,4 +6,5 @@
 * Configured trunk to allow load sharing
 * Repeated project but used IPv6 and SLAAC for automatic IP configuration
 
-![image alt](https://raw.githubusercontent.com/Mariam738/CCNA/refs/heads/master/Project/ProjectIPv4.png)
+![image alt](https://github.com/Mariam738/CCNA/blob/master/Project/ProjectIPv4.png?raw=true)
+![image alt](https://github.com/Mariam738/CCNA/blob/master/Project/ProjectIPv6.png?raw=true)
